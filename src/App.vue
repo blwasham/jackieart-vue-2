@@ -1,25 +1,23 @@
 <template>
-  <div id="app">
-    <h1>
-      <product :title="productTitle"></product>
-    </h1>
+  
+  <div>
+    <h3>{{ siteTitle }}</h3>
+      <portfolio></portfolio>
   </div>
 </template>
 
 <script>
-import product from './product.vue';
+import portfolio from './portfolio.vue';
 
 export default {
   name: 'app',
   data () {
     return {
-      msg: 'Jackie Art Paintings',
-      painting: 'Blue Sky Meadows',
-      productTitle: 'some silly title'
+      siteTitle: 'Jackie Art'
     }
   },
   components: {
-    product
+    portfolio
   }
 }
 </script>
