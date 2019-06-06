@@ -19,7 +19,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 -----------------------------------------
 ## Repo Notes
-* **Vue instance** - [guide](https://vuejs.org/v2/guide/instance.html) See app.vue
+* **Vue instance** - [guide](https://vuejs.org/v2/guide/instance.html) See app.vue. Review life cycle hooks
 * **Attribute binding** - v-bind with items on data
 * **Conditional rendering** - "Sold" item, "In Stock / Out of Stock" v-if v-else-if v-else
 * **List rendering** - v-for in portfolio that calls paintings component. 
