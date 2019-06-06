@@ -1,13 +1,12 @@
 <template>
-  
   <div>
-    <h3>{{ siteTitle }}</h3>
-      <portfolio></portfolio>
+      <main-nav></main-nav>
+      <router-view></router-view>
   </div>
 </template>
 
 <script>
-import portfolio from './portfolio.vue';
+import mainNav from './mainNav.vue'
 
 export default {
   name: 'app',
@@ -17,7 +16,7 @@ export default {
     }
   },
   components: {
-    portfolio
+    mainNav
   }
 }
 </script>
