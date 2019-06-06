@@ -44,7 +44,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 * **Props/Emitting Events** - See "Portfolio>Painting>AddToCart". Also see "Thoughts" for both passing props(thoughts-list) and emitting event(thoughts-form). Also emit event for addToCart 
 
 ## Other Topics
-* **Slots** -
+* **Slots** - https://vuejs.org/v2/guide/components-slots.html
 * **Vue Router** - 
 * **Vuex** - 
 
