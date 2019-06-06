@@ -45,8 +45,8 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ## Other Topics
 * **Slots** - https://vuejs.org/v2/guide/components-slots.html
-* **Vue Router** - 
-* **Vuex** - 
+* **Vue Router** - https://router.vuejs.org/
+* **Vuex** - https://vuex.vuejs.org/guide/
 
 
 
